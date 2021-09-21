@@ -7,6 +7,13 @@
     <groupId>org.example</groupId>
     <artifactId>Java_example_for_a_technical</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <dependencies>
+        <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-core</artifactId>
+            <version>5.4.32.Final</version>
+        </dependency>
+    </dependencies>
 
     <properties>
         <maven.compiler.source>16</maven.compiler.source>
